@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bilal Ahmad Kamal 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Analyst · GRC · SIEM & Detection Engineering · DFIR · Pentesting</b><br>
+  <b> AI Cybersecurity Analyst · GRC · SIEM & Detection Engineering · DFIR · Pentesting</b><br>
   PhD Researcher in Cybersecurity · Based in Coimbra, Portugal
 </p>
 
