@@ -43,6 +43,7 @@ and demonstrate compliance — and I'm increasingly focused on the emerging fiel
 | [VAPT-Penetration-Testing-Framework](https://github.com/BAKROOT/VAPT-Penetration-Testing-Framework) | End-to-end VAPT framework: methodology, rules of engagement, checklists, CVSS scoring, reporting & remediation tracking. |
 | [Cybersecurity-GRC-Compliance](https://github.com/BAKROOT/Cybersecurity-GRC-Compliance) | GRC program repo: governance policies, risk register, and control mappings for ISO 27001, SOC 2, and NIST CSF. |
 | [AI-LLM-Security-Pentest-Guide](https://github.com/BAKROOT/AI-LLM-Security-Pentest-Guide) | Practical guide to AI/LLM security testing based on the OWASP Top 10 for LLM Applications (2025). |
+| [SOC-Security-Operations-Center](https://github.com/BAKROOT/SOC-Security-Operations-Center) | SOC framework: monitoring, detection engineering, alert triage, incident response playbooks, and SIEM use-case management. |
 
 ## 🎖️ Certifications
 
