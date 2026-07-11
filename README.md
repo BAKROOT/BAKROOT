@@ -1,59 +1,60 @@
-<h1 align="center">Hi, I'm Bilal Ahmad Kamal 👋</h1>
+# Hi, I'm Bilal Ahmad Kamal 👋
 
-<p align="center">
-  <b> Cybersecurity Analyst · GRC · SIEM & Detection Engineering · DFIR · Pentesting</b><br>
-  PhD Researcher in Cybersecurity · Based in Coimbra, Portugal
-</p>
+### Penetration Tester & Cybersecurity Consultant
+Red Teaming · Threat Modeling · DFIR · SOC/SIEM Operations · GRC
+PhD Researcher in Cybersecurity · Based in Coimbra, Portugal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bilalspeaks/">
-    <img src="https://img.shields.io/badge/LinkedIn-bilalspeaks-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img src="https://img.shields.io/badge/Certifications-CISM%20·%20CEH%20·%20CHFI%20·%20SSCP-informational" alt="Certifications">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20·%20GRC%20·%20AI%20Security-blue" alt="Focus">
-</p>
+[LinkedIn: in/bilalspeaks](https://www.linkedin.com/in/bilalspeaks/) | Certifications: CISM, CEH, CHFI, SSCP | Focus: Penetration Testing, Red Team, GRC
 
 ---
 
-## 🛡️ What I Do
+## Main Focus: Offensive Security & Penetration Testing
 
-I'm a cybersecurity practitioner and PhD researcher focused on the intersection of
-**offensive security, detection engineering, and governance/risk/compliance**. I build
-practical, standards-aligned frameworks that help teams test their systems responsibly
-and demonstrate compliance — and I'm increasingly focused on the emerging field of
-**AI/LLM security**.
+10+ years of hands-on cybersecurity experience, with a primary focus on authorized penetration testing across web applications, networks, APIs, and mobile platforms. Comfortable across the full testing lifecycle: reconnaissance, exploitation, post-exploitation, and remediation-focused reporting. Tooling includes Burp Suite, Metasploit, Nmap, Nessus, and custom scripting.
 
-- 🔍 **Detection & Response** — SIEM, detection engineering, and DFIR workflows.
-- 🎯 **Offensive Security** — structured VAPT methodology across web, network, API, mobile, and cloud.
-- 📋 **GRC** — policies, risk registers, and control mappings for ISO 27001, SOC 2, and NIST CSF.
-- 🤖 **AI Security** — LLM application security testing aligned to the OWASP GenAI Top 10.
-- 🎓 **Research** — PhD research in cybersecurity.
+Also active across complementary security domains that strengthen the offensive work above.
 
-## 🧰 Skills & Tech
+**SOC, SIEM & Detection Engineering.** Led detection-engineering operations using Splunk and Microsoft Sentinel; MITRE ATT&CK-aligned detection logic and SOAR-driven incident response.
 
-**Security:** VAPT · Penetration Testing · SIEM · Detection Engineering · DFIR · Threat Modeling
-**GRC & Frameworks:** ISO 27001 · SOC 2 · NIST CSF · CVSS · Risk Management
-**AI Security:** OWASP Top 10 for LLMs · Prompt Injection & RAG security testing
-**Docs & Tooling:** Markdown · Git/GitHub · Reporting & Evidence Management
+**GRC, Governance, Risk & Compliance.** Risk assessments and control frameworks aligned to ISO 27001, NIST CSF, GDPR, NIS2, DORA, and PCI DSS.
 
-## 📌 Featured Projects
+**DFIR, Digital Forensics & Incident Response.** Forensic analysis using Autopsy, EnCase, FTK, and Belkasoft; mobile forensics, malware analysis, and phishing investigations.
 
-| Project | What it is |
-|---|---|
-| [VAPT-Penetration-Testing-Framework](https://github.com/BAKROOT/VAPT-Penetration-Testing-Framework) | End-to-end VAPT framework: methodology, rules of engagement, checklists, CVSS scoring, reporting & remediation tracking. |
-| [Cybersecurity-GRC-Compliance](https://github.com/BAKROOT/Cybersecurity-GRC-Compliance) | GRC program repo: governance policies, risk register, and control mappings for ISO 27001, SOC 2, and NIST CSF. |
-| [AI-LLM-Security-Pentest-Guide](https://github.com/BAKROOT/AI-LLM-Security-Pentest-Guide) | Practical guide to AI/LLM security testing based on the OWASP Top 10 for LLM Applications (2025). |
-| [SOC-Security-Operations-Center](https://github.com/BAKROOT/SOC-Security-Operations-Center) | SOC framework: monitoring, detection engineering, alert triage, incident response playbooks, and SIEM use-case management. |
+**Threat Intelligence & OSINT/DARKINT.** OSINT, SOCMINT, and dark-web intelligence analysis, IOC development, and APT tracking.
 
-## 🎖️ Certifications
+**Research.** PhD researcher in Cybersecurity at Universidade de Coimbra (satellite ADS-B security), with published research on Android stealth rooting and ML-based malicious app detection.
 
-**CISM** · **CEH** · **CHFI** · **SSCP**
+## Skills & Tools
 
-## 📫 Connect
+**Offensive Security:** Penetration Testing, VAPT, Red Teaming, Burp Suite, Metasploit, Nmap, Nessus
 
-- 💼 LinkedIn: [in/bilalspeaks](https://www.linkedin.com/in/bilalspeaks/)
-- 📍 Coimbra, Portugal
+**Detection & Response:** SIEM, Splunk, Microsoft Sentinel, SOAR, Threat Modeling
 
----
+**GRC & Frameworks:** ISO 27001, SOC 2, NIST CSF, GDPR, NIS2, DORA, PCI DSS
 
-<p align="center"><i>Building practical, standards-aligned security — for authorized and educational use.</i></p>
+**Forensics:** Autopsy, EnCase, FTK, Belkasoft
+
+**AI Security:** OWASP Top 10 for LLMs
+
+## Featured Projects
+
+**VAPT-Penetration-Testing-Framework.** End-to-end VAPT framework: methodology, rules of engagement, checklists, CVSS scoring, reporting & remediation tracking.
+
+**offensive-penetration-testing-notes.** Personal study notes and topic tracker from ongoing penetration testing coursework.
+
+**Cybersecurity-GRC-Compliance.** GRC program repo: governance policies, risk register, and control mappings for ISO 27001, SOC 2, and NIST CSF.
+
+**AI-LLM-Security-Pentest-Guide.** Practical guide to AI/LLM security testing based on the OWASP Top 10 for LLM Applications (2025).
+
+**SOC-Security-Operations-Center.** SOC framework: monitoring, detection engineering, alert triage, incident response playbooks, and SIEM use-case management.
+
+## Certifications
+
+CISM, CEH, CHFI, SSCP, arcX CTI Analyst
+
+## Connect
+
+LinkedIn: [in/bilalspeaks](https://www.linkedin.com/in/bilalspeaks/)
+Location: Coimbra, Portugal
+
+_Building and testing systems responsibly, for authorized and educational use._
